@@ -19,10 +19,12 @@
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_h4x</item>
         <item>wallpaper_omfgb</item>
+	<item>wallpaper_zombies</item
     </string-array>
 
     <string-array name="info" translatable="false">
 	<item>T3hh4xx0r :: Stevelogik</item>
 	<item>OMFGB :: Stevelogik</item>
+	<item>Zombies :: AOSP</item>
     </string-array>
 </resources>
