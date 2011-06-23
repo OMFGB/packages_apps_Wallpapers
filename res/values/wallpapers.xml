@@ -19,7 +19,7 @@
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_h4x</item>
         <item>wallpaper_omfgb</item>
-	<item>wallpaper_zombies</item
+	<item>wallpaper_zombies</item>
     </string-array>
 
     <string-array name="info" translatable="false">
