@@ -24,6 +24,7 @@
 	<item>ks2</item>
 	<item>ks3</item>
 	<item>ks4</item>
+	<item>ks5</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -34,5 +35,6 @@
 	<item>OMFGB-2 :: Ksknightmare</item>
 	<item>Space Collision :: Ksknightmare</item>
 	<item>Space Wall :: Ksknightmare</item>
+	<item>Mario Phone :: Ksknightmare</item>
     </string-array>
 </resources>
