@@ -25,6 +25,7 @@
 	<item>ks3</item>
 	<item>ks4</item>
 	<item>ks5</item>
+	<item>angry-andy</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -36,5 +37,6 @@
 	<item>Space Collision :: Ksknightmare</item>
 	<item>Space Wall :: Ksknightmare</item>
 	<item>Mario Phone :: Ksknightmare</item>
+	<item>Angry Andy :: OMGBeav</item>
     </string-array>
 </resources>
