@@ -27,6 +27,12 @@
 	<item>ks5</item>
 	<item>angry</item>
 	<item>rootz</item>
+	<item>logo</item>
+        <item>andyomfgb2</item>
+        <item>omfgbcircle</item>
+        <item>omfgbexp</item>
+        <item>omfgbsquares</item>
+
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -40,5 +46,10 @@
 	<item>Mario Phone :: Ksknightmare</item>
 	<item>Angry Andy :: OMGBeav</item>
 	<item>Sully :: RootzWiki</item>
+	<item>T3hh4xx0r Logo :: OMGBeav</item>
+	<item> OMFGB Andy :: android_michael</item>
+        <item> OMFGB Circles :: android_michael</item>
+        <item> Exploding OMFGB :: android_michael</item>
+        <item> OMFGB Squares :: android_michael</item>
     </string-array>
 </resources>
